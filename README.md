@@ -10,7 +10,7 @@ Test the created class by a program that instantiates two objects, one with the 
 
     Menu:
 
-    Accelerate (speed increase will be requested) the bike 2.
+    1. Accelerate (speed increase will be requested) the bike 2.
     2. Accelerate (the car will be asked for speed increase) 3.
     3. Brake (speed reduction will be requested) the bicycle
     4. Braking (speed reduction will be requested) the car
