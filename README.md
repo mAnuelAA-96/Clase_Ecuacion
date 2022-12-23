@@ -22,8 +22,6 @@ Test the created class by a program that instantiates two objects, one with the 
 
 Different options may be given (brake, accelerate, view speed, . . . ) until the program is terminated with option 7.
 
-Translated with www.DeepL.com/Translator (free version)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Clase_Ecuacion (Español)
